@@ -17,3 +17,7 @@ public class FinalizeMethod extends GregorianCalendar {
 	}
 
 }
+
+// final and finally are keywords in java whereas finalize is a method
+// final keyword can be used with class variables so that they can’t be reassigned, with class to avoid extending by classes and with methods to avoid overriding by subclasses
+// 
